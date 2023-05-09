@@ -42,14 +42,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"tips mod 1","desc":"DOOM is a classic first-person shooter video game that was first released in 1993. The game was a critical and commercial success, and it spawned numerous sequels and spin-offs over the years. ","photo":"https://iili.io/HU3X3rB.jpg"},
+  {"title":"helper pack 2","desc":"One of the most popular spin-offs of DOOM is the DOOM Modding community, which has created a vast array of custom content for the game over the years.","photo":"https://iili.io/HU3Xf71.jpg"},
+  {"title":"advnace mod 3","desc":"FNF Mod has become incredibly popular, and it has spawned its own community of fans and creators. However, DOORS is another popular DOOM Mod that is often compared to FNF Mod. ","photo":"https://iili.io/HU3XKdP.jpg"},
+  {"title":"how to use this app 4","desc":"In this article, we will compare and contrast DOORS and FNF Mod to help you decide which one is best for you.","photo":"https://iili.io/HU3XnIa.webp"},
+  {"title":"advice pack 5","desc":"DOORS Mod is a custom game mode for DOOM that was created by John Romero, one of the original creators of DOOM. ","photo":"https://iili.io/HU3XBmg.jpg"},
+  {"title":"tips mod 6","desc":" The Mod is designed to be a throwback to the classic DOOM gameplay, and it features many of the same elements that made the original game so popular.","photo":"https://iili.io/HU3XohJ.jpg"},
+  {"title":"helper pack 7","desc":"DOORS Mod is known for its fast-paced gameplay, challenging levels, and unique weapons. The Mod also features an intricate storyline that unfolds as you progress through the game. ","photo":"https://iili.io/HU3XxLv.webp"},
+  {"title":"how to use this app 8","desc":"The levels in DOORS Mod are designed to be challenging, and they often require you to use a variety of tactics and strategies to succeed.","photo":"https://iili.io/HU3Xf71.jpg"}
    ]
  
 }
